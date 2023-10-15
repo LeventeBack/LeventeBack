@@ -72,6 +72,10 @@
 <a href="https://www.fiverr.com/leventeback" target="_blank">
   <img src="https://camo.githubusercontent.com/32dbb86bcee0bdcc2b1054f052daca3dac49a3196eba2dbe38b386c6f2039c13/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d46697665727226636f6c6f723d323232323232266c6f676f3d466976657272266c6f676f436f6c6f723d314442463733266c6162656c3d" alt="Fiverr" />
 </a>
+<a href="mailto:backistvanlevente17@gmail.com" style="display: inline-block; padding: 10px; background-color: #00A2C8; border-radius: 5px;">
+  <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=mail.ru&logoColor=white" alt="Email" style="background-color: #00A2C8; padding: 5px; border-radius: 5px;" />
+</a>
+
 <a href="https://github.com/LeventeBack" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
