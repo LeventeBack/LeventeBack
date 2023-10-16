@@ -1,5 +1,5 @@
 ## <div align="center">Hi there 👋</div>
-### <div align="center">I'm Levente, a full-stack freelance developer 💻 working remotely since 2020 🚀</div>  
+### <div align="center">I'm Levente, a full-stack freelance developer working remotely since 2020 💻</div>  
   
 
 - 💼 I’m currently working part-time on several client projects   
