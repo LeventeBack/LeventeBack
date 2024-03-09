@@ -83,4 +83,7 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
+
+## Projects
+- Most of my repositories are private client projects   
+- Here are some personal projects or open source contributions I can share: 
