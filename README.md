@@ -5,7 +5,7 @@
 - 💼 I’m currently working part-time on several client projects   
   
 
-- 🌍 I have worked with clients from +15 countries in the past 3 years 📅  
+- 🌍 I have worked with clients from +15 countries in the past 5 years 📅  
   
 
 - 🌐 I mostly create web applications, but recently I started exploring mobile development as well 📱  
