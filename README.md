@@ -40,7 +40,7 @@
 - Ionic Framework → cross-platform mobile applications
 
 <br/>
-<div align="center"> 
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;"> 
   <a style="margin: 0 3px;" href="https://reactjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="50" alt="React" /></a> 
   <a style="margin: 0 3px;" href="https://nextjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" height="50" alt="Next.js" /></a> 
   <a style="margin: 0 3px;" href="https://redux.js.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" height="50" alt="Redux" /></a> 
@@ -64,7 +64,7 @@
 - Laravel / CodeIgniter → rapid development of maintainable server-side apps
 
 <br/> 
-<div align="center"> 
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;"> 
   <a style="margin: 0 3px;" href="https://nodejs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="50" alt="Node.js" /></a>
   <a style="margin: 0 3px;" href="https://nestjs.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" height="50" alt="Nest.js" /></a>
   <a style="margin: 0 3px;" href="https://graphql.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/graphql.png" height="50" alt="GraphQL" /></a> 
@@ -86,7 +86,7 @@
 - CI/CD & Git → automated testing, deployment pipelines, and version control
 
 <br/> 
-<div align="center"> 
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;"> 
   <a style="" href="https://firebase.google.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/firebase.png" height="50" alt="Firebase" /></a> 
   <a style="margin: 0 3px;" href="https://cloud.google.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" height="50" alt="GCP" /></a>
   <a style="margin: 0 5px;" href="https://www.docker.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" height="50" alt="Docker" /></a> 
