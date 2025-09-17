@@ -40,14 +40,14 @@
 - Ionic Framework → cross-platform mobile applications
 
 <br/>
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;"> 
-  <a style="margin: 0 3px;" href="https://reactjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="50" alt="React" /></a> 
-  <a style="margin: 0 3px;" href="https://nextjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" height="50" alt="Next.js" /></a> 
-  <a style="margin: 0 3px;" href="https://redux.js.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" height="50" alt="Redux" /></a> 
-  <a style="margin: 0 3px;" href="https://www.typescriptlang.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="50" alt="TypeScript" /></a> 
-  <a style="margin: 0 3px;" href="https://www.javascript.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="50" alt="JavaScript" /></a> 
-  <a style="margin: 0 3px;" href="https://tailwindcss.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="50" alt="Tailwind CSS" /></a> 
-  <a style="margin: 0 3px;" href="https://sass-lang.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" height="50" alt="SCSS" /></a> 
+<div align="center"> 
+  <a style="margin: 0 3px;" href="https://reactjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="50" alt="React" /></a>&nbsp;&nbsp;&nbsp;
+  <a style="margin: 0 3px;" href="https://nextjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" height="50" alt="Next.js" /></a> &nbsp;&nbsp;&nbsp;
+  <a style="margin: 0 3px;" href="https://redux.js.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" height="50" alt="Redux" /></a> &nbsp;&nbsp;&nbsp;
+  <a style="margin: 0 3px;" href="https://www.typescriptlang.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="50" alt="TypeScript" /></a> &nbsp;&nbsp;&nbsp;
+  <a style="margin: 0 3px;" href="https://www.javascript.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="50" alt="JavaScript" /></a> &nbsp;&nbsp;&nbsp;
+  <a style="margin: 0 3px;" href="https://tailwindcss.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="50" alt="Tailwind CSS" /></a> &nbsp;&nbsp;&nbsp;
+  <a style="margin: 0 3px;" href="https://sass-lang.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" height="50" alt="SCSS" /></a> &nbsp;&nbsp;&nbsp;
   <a style="margin: 0 3px;" href="https://ionicframework.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/ionic.svg" height="50" alt="Ionic Framework" /></a>
 </div>
 
@@ -64,14 +64,14 @@
 - Laravel / CodeIgniter → rapid development of maintainable server-side apps
 
 <br/> 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;"> 
-  <a style="margin: 0 3px;" href="https://nodejs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="50" alt="Node.js" /></a>
-  <a style="margin: 0 3px;" href="https://nestjs.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" height="50" alt="Nest.js" /></a>
-  <a style="margin: 0 3px;" href="https://graphql.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/graphql.png" height="50" alt="GraphQL" /></a> 
-  <a style="margin: 0 3px;" href="https://www.mysql.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="50" alt="MySQL" /></a> 
-  <a style="margin: 0 3px;" href="https://www.postgresql.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" height="50" alt="PostgreSQL" /></a> 
-  <a style="margin: 0 3px;" href="https://www.mongodb.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="50" alt="MongoDB" /></a> 
-  <a style="margin: 0 3px;" href="https://redis.io/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" height="50" alt="Redis" /></a> 
+<div align="center"> 
+  <a style="margin: 0 3px;" href="https://nodejs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="50" alt="Node.js" /></a> &nbsp;&nbsp;&nbsp;
+  <a style="margin: 0 3px;" href="https://nestjs.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" height="50" alt="Nest.js" /></a> &nbsp;&nbsp;&nbsp;
+  <a style="margin: 0 3px;" href="https://graphql.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/graphql.png" height="50" alt="GraphQL" /></a> &nbsp;&nbsp;&nbsp;
+  <a style="margin: 0 3px;" href="https://www.mysql.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="50" alt="MySQL" /></a> &nbsp;&nbsp;&nbsp; 
+  <a style="margin: 0 3px;" href="https://www.postgresql.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" height="50" alt="PostgreSQL" /></a> &nbsp;&nbsp;&nbsp; 
+  <a style="margin: 0 3px;" href="https://www.mongodb.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="50" alt="MongoDB" /></a> &nbsp;&nbsp;&nbsp; 
+  <a style="margin: 0 3px;" href="https://redis.io/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" height="50" alt="Redis" /></a> &nbsp;&nbsp;&nbsp;
   <a style="margin: 0 3px;" href="https://laravel.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" height="50" alt="Laravel" /></a>
 </div>
 
@@ -86,11 +86,11 @@
 - CI/CD & Git → automated testing, deployment pipelines, and version control
 
 <br/> 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;"> 
-  <a style="" href="https://firebase.google.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/firebase.png" height="50" alt="Firebase" /></a> 
-  <a style="margin: 0 3px;" href="https://cloud.google.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" height="50" alt="GCP" /></a>
-  <a style="margin: 0 5px;" href="https://www.docker.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" height="50" alt="Docker" /></a> 
-  <a style="margin: 0 3px;" href="https://cloud.google.com/functions?hl=en" target="_blank"><img src="https://www.svgrepo.com/show/353806/google-cloud-functions.svg" height="50" alt="Cloud functions"></a> 
+<div align="center"> 
+  <a style="" href="https://firebase.google.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/firebase.png" height="50" alt="Firebase" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a style="margin: 0 3px;" href="https://cloud.google.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" height="50" alt="GCP" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a style="margin: 0 5px;" href="https://www.docker.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" height="50" alt="Docker" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a style="margin: 0 3px;" href="https://cloud.google.com/functions?hl=en" target="_blank"><img src="https://www.svgrepo.com/show/353806/google-cloud-functions.svg" height="50" alt="Cloud functions"></a> &nbsp;&nbsp;&nbsp;&nbsp;
   <a style="margin: 0 3px;" href="https://git-scm.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="50" alt="Git"></a> 
 </div>
 
