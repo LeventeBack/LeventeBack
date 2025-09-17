@@ -1,6 +1,6 @@
 ## <div align="center">Hi there 👋</div>
 
-### <div align="center">I'm Levente, a full-stack freelance developer with 5+ years of experience </div>
+### <div align="center">I'm Levente, a Full Stack Freelance Developer with 5+ years of experience </div>
 
 - 💼 Actively working on multiple client projects with a focus on delivering high-quality results
 - 🌍 Collaborated with clients from 15+ countries over the past 5 years
@@ -87,7 +87,7 @@
 
 <br/> 
 <div align="center"> 
-  <a style="" href="https://firebase.google.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/firebase.png" height="50" alt="Firebase" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a style="" href="https://firebase.google.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/firebase.png" height="50" alt="Firebase" /></a> &nbsp;&nbsp;
   <a style="margin: 0 3px;" href="https://cloud.google.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" height="50" alt="GCP" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a style="margin: 0 5px;" href="https://www.docker.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" height="50" alt="Docker" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
   <a style="margin: 0 3px;" href="https://cloud.google.com/functions?hl=en" target="_blank"><img src="https://www.svgrepo.com/show/353806/google-cloud-functions.svg" height="50" alt="Cloud functions"></a> &nbsp;&nbsp;&nbsp;&nbsp;
