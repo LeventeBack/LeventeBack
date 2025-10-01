@@ -33,9 +33,9 @@
 
 - TypeScript / JavaScript → clean, maintainable, and type-safe code
 
-- Redux / TanStack Query → predictable state management and efficient data handling
+- Redux / Zustand / TanStack Query → predictable state management and efficient data handling
 
-- Tailwind / SCSS / Bootstrap / CSS → responsive, high-quality UI design
+- Tailwind / Material UI / SCSS / Bootstrap → responsive, high-quality UI design
 
 - Ionic Framework → cross-platform mobile applications
 
